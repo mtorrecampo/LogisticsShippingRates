@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-IBM course project
+
 Please consider the below factors while contributing
 
 Code Style:
